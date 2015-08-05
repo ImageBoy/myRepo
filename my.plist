@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://127.0.0.1:8080/BlackJack.ipa</string>
+					<string>http://192.168.30.70:8080/1.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>BlackJack.ipa</string>
+				<string>1.ipa</string>
 			</dict>
 		</dict>
 	</array>
